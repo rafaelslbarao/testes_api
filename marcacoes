@@ -1,23 +1,18 @@
-[  
-   {  
-      "outputType":{  
-         "type":"APK"
-      },
-      "apkData":{  
-         "type":"MAIN",
-         "splits":[  
-
-         ],
-         "versionCode":1,
-         "versionName":"01.00.0001",
-         "enabled":true,
-         "outputFile":"app-dev-release.apk",
-         "fullName":"devRelease",
-         "baseName":"dev-release"
-      },
-      "path":"app-dev-release.apk",
-      "properties":{  
-
-      }
-   }
+[
+   {
+     "dta_movimento": "2019-08-14",
+     "dta_marcacao": "2019-08-14T08::00:00.000Z)"
+   },
+   {
+     "dta_movimento": "2019-08-13",
+     "dta_marcacao": "2019-08-13T08::00:00.000Z)"
+   },
+    {
+     "dta_movimento": "2019-08-12",
+     "dta_marcacao": "2019-08-12T08::00:00.000Z)"
+   },
+   {
+     "dta_movimento": "2019-08-11",
+     "dta_marcacao": "2019-08-11T08::00:00.000Z)"
+   },
 ]
